@@ -12,7 +12,7 @@
 * What is CI/CD and Cloud-Native CI/CD
 * Tekton
 
-## Installation
+## Installationaaa
 
 First, make sure you've installed [tkn](https://github.com/tektoncd/cli) in your environment, whether you are using Minikube on your local machine or the Kubernetes playground. If you're using the Kubernetes playground, enter commands in the top terminal labeled Terminal Host 1. 
 
